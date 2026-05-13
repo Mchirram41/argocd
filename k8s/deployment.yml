@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo-app
-        image: mnlove/todo-app:build-20
+        image: Mchirram41/todo-app:21
         ports:
         - containerPort: 3000
